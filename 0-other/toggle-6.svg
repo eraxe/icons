@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" id="Layer_1" x="0" y="0" style="enable-background:new 0 0 24 24" version="1.1" viewBox="0 0 24 24">
+  <g>
+    <linearGradient id="SVGID_1_" x1="12" x2="12" y1="13.143" y2=".25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#065cfb"/>
+      <stop offset="1" style="stop-color:#09a5f9"/>
+    </linearGradient>
+    <path d="M17.3,0.25H6.7c-3.56,0-6.45,2.89-6.45,6.45s2.89,6.45,6.45,6.45H17.3c3.56,0,6.45-2.89,6.45-6.45
+		S20.86,0.25,17.3,0.25z" style="fill:url(#SVGID_1_)"/>
+    <circle cx="6.7" cy="6.7" r="3.5" style="fill:#fff"/>
+    <linearGradient id="SVGID_00000158009409254429443430000007231447612836844949_" x1="14.536" x2="14.536" y1="23.75" y2="8.901" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#f8a57f"/>
+      <stop offset="1" style="stop-color:#fee2c5"/>
+    </linearGradient>
+    <path d="M20.75,17l-5.58-0.52l0-5.55
+		c0-1.04-0.78-1.98-1.83-2.03c-1.11-0.06-2.03,0.83-2.02,1.93l0.04,9.37l-2.41-2.55c-0.56-0.59-1.42-0.82-2.17-0.51
+		c-3.94,1.62,3.07,6.61,3.07,6.61h12.21c0.79,0,1.42-0.64,1.42-1.42v-2.6C23.48,18.23,22.26,17,20.75,17z" style="fill:url(#SVGID_00000158009409254429443430000007231447612836844949_)"/>
+  </g>
+</svg>
